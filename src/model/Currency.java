@@ -2,6 +2,6 @@ package model;
 
 public enum Currency {
 
-	PLN, USD, EUR, CHF, RON
+	PLN, USD, EUR, CHF, RON, GBP
 
 }
